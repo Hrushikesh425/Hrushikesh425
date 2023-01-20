@@ -1,7 +1,7 @@
 Hi 👋 My name is Hrushikesh Gaware
 ==================================
 
-CTO at Project Triangle; Full Stack Developer; Software Developer
+Full Stack Developer; Software Developer
 -----------------------------------------------------------------
 
 * 🌍  I'm based in Mumbai
