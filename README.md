@@ -6,7 +6,6 @@ Full Stack Developer; Software Developer
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [hrushikeshgaware426@gmail.com](mailto:hrushikeshgaware426@gmail.com)
-* 🚀  I'm currently working on [Project Triangle](http://projectstriangle.com)
 * 🤝  I'm open to collaborating on software development, website development, AI, ML, Data Analyst
 * ⚡  I love coding
 
